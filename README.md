@@ -26,5 +26,5 @@
 [![Email](https://img.shields.io/badge/Email-2985505946%40qq.com-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white)](mailto:2985505946@qq.com)
 
 <div align="center">
-  <img src="./assets/swimming-fish.gif" alt="游来游去、偶尔吐泡泡的小鱼" width="420">
+  <img src="./swimming-fish.gif" alt="游来游去、偶尔吐泡泡的小鱼" width="420">
 </div>
