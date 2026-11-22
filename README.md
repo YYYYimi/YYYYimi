@@ -1,6 +1,6 @@
 <h1 align="center">HI, I'M YYYYIMI 👋</h1>
 
-<p align="center">Language ·  Communication · Computing× </p>
+<p align="center">Language ·  Communication · Computing </p>
 
 喜欢在 GitHub 上抛射一些头脑风暴后的“垃圾”……也许哪天它们会变成有趣的作品(=･ｪ･=) 
 
